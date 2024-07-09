@@ -1,6 +1,6 @@
 {
   "name": "myEfree Connect",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 2,
   "description": "Allows you to automatically connect to myEfree using myEfrei SSO",
   "background": {
@@ -16,7 +16,7 @@
     "webRequest",
     "webRequestBlocking",
     "cookies",
-    "https://myefree-connect.docsystem.xyz/*",
+    "https://connect.myefree.tech/*",
     "https://www.myefrei.fr/*",
     "https://auth.myefrei.fr/*"
   ]

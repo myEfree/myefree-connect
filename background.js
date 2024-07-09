@@ -1,4 +1,4 @@
-const MYEFREE_BASE_URL = "https://myefree.docsystem.xyz";
+const MYEFREE_BASE_URL = "https://portal.myefree.tech";
 
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) {
@@ -28,6 +28,6 @@ chrome.webRequest.onBeforeRequest.addListener(
         });
         return {redirectUrl: `${MYEFREE_BASE_URL}/auth/myefree-connect`};
     },
-    {urls: ["https://myefree-connect.docsystem.xyz/useConnect"]},
+    {urls: ["https://connect.myefree.tech/useConnect"]},
     ["blocking"]
 );
