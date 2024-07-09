@@ -1,4 +1,4 @@
-const MYEFREE_BASE_URL = "http://localhost:3000";
+const MYEFREE_BASE_URL = "https://myefree.docsystem.xyz";
 
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) {
