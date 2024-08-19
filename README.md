@@ -11,5 +11,5 @@
 <p align="center">L'extension de connexion automatisée de <a href="https://myefree.tech">myEfree</a></p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png" alt="Chrome Web Store"></a>
+  <a href="https://chromewebstore.google.com/detail/myefree-connect/ijhdkeenhfpifjpdbccilghlkggihbhb"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png" alt="Chrome Web Store"></a>
 </p>
